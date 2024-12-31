@@ -48,14 +48,23 @@ A detailed list of unsatisfied conditions (if any).
 File Structure
 php
 tender-proposal-checker/
+
 ├── public/
+
 ├── src/
+
 │   ├── components/
+
 │   │   ├── TenderProposalChecker.jsx  # Main React component
+
 │   ├── App.js                         # Entry point for the app
+
 │   ├── index.js                       # Renders the React app
+
 ├── package.json                       # Project metadata and dependencies
+
 └── README.md                          # Project documentation
+
 
 How It Works
 

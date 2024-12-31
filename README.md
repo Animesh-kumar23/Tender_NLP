@@ -1,5 +1,7 @@
 Tender & Proposal Compliance Checker
+
 Description
+
 The Tender & Proposal Compliance Checker is a ReactJS-based web application that evaluates whether a submitted proposal fulfills all criteria outlined in a tender document. The application uses PDF.js for PDF parsing and Compromise NLP for text analysis. It supports dynamic section detection and condition validation, ensuring comprehensive compliance checks.
 
 Features

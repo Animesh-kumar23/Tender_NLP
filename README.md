@@ -5,6 +5,7 @@ Description
 The Tender & Proposal Compliance Checker is a ReactJS-based web application that evaluates whether a submitted proposal fulfills all criteria outlined in a tender document. The application uses PDF.js for PDF parsing and Compromise NLP for text analysis. It supports dynamic section detection and condition validation, ensuring comprehensive compliance checks.
 
 Features
+
 Parse and extract text from multi-page tender and proposal PDF files.
 Identify and validate tender conditions, including:
 Eligibility criteria
@@ -100,12 +101,18 @@ Contributions are welcome! If you'd like to contribute:
 
 Fork the repository.
 Create a new branch (git checkout -b feature/your-feature).
+
 Commit your changes (git commit -m "Add your feature").
+
 Push to the branch (git push origin feature/your-feature).
+
 Open a Pull Request.
 
 
 Contact
+
 Author: Animesh Kumar
+
 Email: animeshkumar.bgs@gmail.com
+
 GitHub Repository: https://github.com/your-username/tender-proposal-checker
